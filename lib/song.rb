@@ -1,6 +1,6 @@
 class Song
   @@song_count=0
-  def 
+  def inia
   end
 
 end
