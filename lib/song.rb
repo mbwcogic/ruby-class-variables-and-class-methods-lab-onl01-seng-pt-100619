@@ -9,5 +9,7 @@ class Song
   
    @genre=genre
   end
-  def 
+  def self.count
+    @@count
+  end
 end
