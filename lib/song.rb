@@ -15,7 +15,7 @@ class Song
    
    @@count +=1
    
-   @@artists 
+   @@artists >> artist
   
   
   end
