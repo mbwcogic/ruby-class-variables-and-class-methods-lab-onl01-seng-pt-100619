@@ -10,6 +10,8 @@ class Song
    @genre=genre
    
    @@count +=1
+   
+   @@artists
   end
   
 end
