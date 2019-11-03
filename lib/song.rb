@@ -21,7 +21,7 @@ class Song
   end
   
   def self.count
-    @self
+    @@count
   end
   
 end
