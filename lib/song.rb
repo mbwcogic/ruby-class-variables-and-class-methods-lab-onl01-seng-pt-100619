@@ -17,7 +17,7 @@ class Song
    
    @@artists >> artist
   
-  
+   @@genres >>
   end
   
 end
