@@ -12,6 +12,7 @@ class Song
    
    @@count +=1
    
+   @@artist <<
   end
   
 end
