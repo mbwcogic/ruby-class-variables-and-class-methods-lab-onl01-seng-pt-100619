@@ -24,4 +24,12 @@ class Song
     @@count
   end
   
+  def self.artists
+    artists.uniq
+  end
+  
+  
+  
+  
+  
 end
